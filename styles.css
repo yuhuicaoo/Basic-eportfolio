@@ -317,6 +317,7 @@ nav {
 .project__img {
     width: 100%;
     transition: all 500ms ease;
+    padding: 24px;
 }
 
 .project__wrapper {
